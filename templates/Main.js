@@ -22,6 +22,6 @@ async function getData() {
     }
 }
 
-getData();
+getData(); // calls the function of the website 
 
 
